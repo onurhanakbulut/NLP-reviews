@@ -1,3 +1,5 @@
-reviews/
+data/clean/
+data/raw/
 
 *.pdf
+*.txt

@@ -1,0 +1,38 @@
+{
+    "aspects": [
+        {
+            "id": "price",
+            "name": "Fiyat",
+            "category": "general",
+            "keywords": ["fiyat", "pahalı", "ucuz", "indirim", "kampanya", "f/p", "parasına değer" ]
+        },
+
+        {
+            "id": "packaging",
+            "name": "Paketleme",
+            "category": "general",
+            "keywords": ["paket", "paketleme", "ambalaj", "kutu", "poşet", "ezilmiş", "yırtık"]
+        },
+
+        {
+            "id": "shipping",
+            "name": "Kargo / Teslimat",
+            "category": "general",
+            "keywords": ["kargo", "teslimat", "teslim", "geç geldi", "gecikti", "hızlı geldi"]
+        },
+
+        {
+            "id": "size_fit",
+            "name": "Beden / Kalıp",
+            "category": "product", 
+            "keywords": ["beden", "kalıp", "dar", "bol", "tam beden", "bir beden büyük", "bir beden küçük"]
+        },
+
+        {
+            "id": "fabric_quailty",
+            "name": "Kumaş Kalitesi",
+            "category": "product",
+            "keywords": ["kumaş", "kalite", "kaliteli", "kalitesiz", "ince", "kalın", "terletiyor", "yumuşak", "sert"]
+        }
+    ]
+}
