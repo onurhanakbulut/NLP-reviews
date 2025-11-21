@@ -1,5 +1,8 @@
 data/clean/
 data/raw/
+data/processed/
+data/goldsample/
+data/for_bert/
 
 *.pdf
 *.txt
