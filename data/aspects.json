@@ -29,7 +29,7 @@
         },
 
         {
-            "id": "fabric_quailty",
+            "id": "fabric_quality",
             "name": "Kumaş Kalitesi",
             "category": "product",
             "keywords": ["kumaş", "kalite", "kaliteli", "kalitesiz", "ince", "kalın", "terletiyor", "yumuşak", "sert"]

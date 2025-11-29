@@ -1,8 +1,8 @@
 data/clean/
 data/raw/
-data/processed/
-data/goldsample/
-data/for_bert/
+models/berturk_absa_v1_checkpoint/
+models/berturk_absa_v1/
+
 
 *.pdf
 *.txt
